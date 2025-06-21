@@ -17,7 +17,7 @@
     {{ str_replace('-',' ', $quizName)}}
     </h1>
     <h2 class="text-lg text-center text-green-800 mb-6 font-bold ">
-        This Quiz container {{$quizCount}} Questions and no limit to attempt this Quiz</h2>
+        This Quiz contains {{$quizCount}} Questions and no limit to attempt this Quiz</h2>
         <h1 class="text-2xl text-center text-green-800 mb-6 font-bold ">
         Good Luck
     </h1>
